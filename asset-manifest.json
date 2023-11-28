@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/find-agatha/static/css/main.9520b342.css",
+    "main.js": "/find-agatha/static/js/main.e0488314.js",
+    "static/js/787.5739088c.chunk.js": "/find-agatha/static/js/787.5739088c.chunk.js",
+    "index.html": "/find-agatha/index.html",
+    "main.9520b342.css.map": "/find-agatha/static/css/main.9520b342.css.map",
+    "main.e0488314.js.map": "/find-agatha/static/js/main.e0488314.js.map",
+    "787.5739088c.chunk.js.map": "/find-agatha/static/js/787.5739088c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9520b342.css",
+    "static/js/main.e0488314.js"
+  ]
+}
